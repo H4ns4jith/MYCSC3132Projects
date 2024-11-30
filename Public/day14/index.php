@@ -1,5 +1,5 @@
 <?php
-    require_once 'connection.php';
+    require_once 'dfconf.php';
 ?>
 <?php
     function addData($connection,$fname,$lname,$gender,$age,$course){
